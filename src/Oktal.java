@@ -1,4 +1,4 @@
-public Oktal Circle implements Converter {
+public class Oktal implements Converter {
 
     @Override
     public void converter(int desimal){
